@@ -1,0 +1,10 @@
+INDEX_FOLDER = "./firewall_faiss_index"
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
+YOUTUBE_VIDEO_URLS = ["https://www.youtube.com/watch?v=9GZlVOafYTg"]
+AZURE_ENDPOINT = ""
+API_VERSION=""
+DEPLOYMENT_NAME=""
+OPENAI_API_KEY=""
+OPEN_AI_TYPE=""
+TEMPERATURE=0.1
